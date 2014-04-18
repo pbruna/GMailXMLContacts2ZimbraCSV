@@ -17,6 +17,7 @@ git clone git@github.com:pbruna/GMailXMLContacts2ZimbraCSV.git
 
 ####2 Run bundle inside the new directory to install what you need
 ```bash
+cd ./GMailXMLContacts2ZimbraCSV
 bundle
 ```
 
