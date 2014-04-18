@@ -10,22 +10,22 @@ This is what is used in the ``Z2G_DICTIONARY`` constant Hash.
 
 ### How to use it
 
-1. Clone this repo
+####1 Clone this repo
 ```bash
 git clone git@github.com:pbruna/GMailXMLContacts2ZimbraCSV.git
 ```
 
-2. Run bundle inside the new directory to install what you need
+####2 Run bundle inside the new directory to install what you need
 ```bash
 bundle
 ```
 
-3. Convert the #%%$! XML Google File
+####3 Convert the #%%$! XML Google File
 ```bash
 ruby gc2zc.rb contacts.xml
 ```
 
-4. You should get a new file called ```contacts.csv```
+####4 You should get a new file called ```contacts.csv```
 
 ### TODOs
 Here is what I should start working next:
