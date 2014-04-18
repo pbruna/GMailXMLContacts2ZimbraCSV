@@ -3,7 +3,7 @@ This is a Ruby script that read and parse a GMail XML contact file and returns a
 
 This is a 0.1 version, meaning it just do what I need it to do right now, nothing Fancy yet.
 
-__You are going to Ruby >= 1.9__
+__You are going to need Ruby >= 1.9__
 
 ### Google Reference
 The information needed to make the translation from Google to Zimbra is located here https://developers.google.com/gdata/docs/2.0/elements
