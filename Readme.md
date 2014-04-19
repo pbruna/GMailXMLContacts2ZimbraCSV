@@ -30,6 +30,8 @@ ruby gc2zc.rb contacts.xml
 
 ####4 You should get a new file called ```contacts.csv```
 
+####5 Import the csv using the Zimbra Web client.
+
 ### TODOs
 Here is what I should start working next:
 
